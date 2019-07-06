@@ -1,0 +1,19 @@
+body{
+    background-color: #e6f3ff;
+    font-family: Helvetica
+}
+
+.card-continer {
+    background-color: #fff;
+    border-radius: 6px;
+    overflow: hidden;
+    max-width: 300px;
+    margin: 100px auto;
+}
+
+.card-header {
+    background-color: rgba (80,103,124,0.73);
+    padding: 14px 18px;
+    font-size: 18px;
+}
+
